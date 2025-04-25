@@ -5,9 +5,9 @@ from extension import proxies
 from bs4 import BeautifulSoup
 import json
 
-username = 'SPusername'
-password = 'SPpassword'
-endpoint = 'gate.smartproxy.com'
+username = 'username'
+password = 'password'
+endpoint = 'gate.decodo.com'
 port = '7000'
 website = 'https://www.zalando.co.uk/shoes/'
 
